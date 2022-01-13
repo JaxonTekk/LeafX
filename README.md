@@ -5,7 +5,7 @@
 
 
 # LeafX
-An image recognition software that utilizes machine learning to differentiate between healthy plants and infected plants. Developed by Michael Yi and Jason Chen. This project recieved 1st place out of all the 173 participants in the unlocked-hackathon.
+An image recognition software that utilizes machine learning to differentiate between healthy plants and infected plants. Developed by Michael Yi and Jason Chen. This project recieved 1st place out of all the 173 participants globally through unlocked-hackathon.
 
 https://unlock-hacks.devpost.com/
 
